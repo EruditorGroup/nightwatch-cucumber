@@ -1,4 +1,5 @@
 {
+  "version": "7.1.11-profi-fork",
   "name": "nightwatch-cucumber",
   "description": "Nightwatch.js plugin for Cucumber.js",
   "main": "lib/index.js",
